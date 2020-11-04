@@ -1,0 +1,12 @@
+[
+    {
+      "nome": "Ari Bueno",
+      "valorpago": 100.12,
+      "valorreceber": 250.45
+    },
+    {
+      "nome": "Rosa Soares",
+      "valorpago": 220.45,
+      "valorreceber": 125.78
+    }
+]

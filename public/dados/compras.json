@@ -1,0 +1,14 @@
+[
+    {
+      "descricao": "Supermercado",
+      "data": "01-11-2020",
+      "valor": 100.12,
+      "quempagou": "Ari Bueno"
+    },
+    {
+        "descricao": "Padaria",
+        "data": "01-11-2020",
+        "valor": 15.40,
+        "quempagou": "Rosa Soares"
+      }
+]
